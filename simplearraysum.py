@@ -8,3 +8,4 @@ sum=0
 for i in range(0,n):
 	sum=sum+ar[i]
 print(sum,"is sum of elements")
+# this is the end of the program
